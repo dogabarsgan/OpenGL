@@ -1,0 +1,39 @@
+fc 4
+
+ob cat.obj
+tr -0.30 0.0 0.0
+sc 0.5 0.5 0.5
+rt 0.0 1.0 1.0 1.0
+
+ob troop.obj
+tr 1.0 -0.08 0.0
+sc 0.5 0.5 0.5
+rt 0.0 1.0 1.0 1.0
+
+ob cube.obj
+tr 2.0 0.18 0.0
+sc 0.5 0.5 0.5
+rt 0.0 1.0 1.0 1.0
+
+ob potted_plant.obj
+tr 2.0 0.42 0.0
+sc 0.002 0.002 0.002
+rt 0.0 1.0 1.0 1.0
+
+lf 1000
+np 10000
+minX -100
+minY 0
+minZ 0
+maxX 1000
+maxY 0
+maxZ 0
+xVel 0.0
+yVel 0.0025
+zVel 0.00
+mass 6
+
+
+
+
+
